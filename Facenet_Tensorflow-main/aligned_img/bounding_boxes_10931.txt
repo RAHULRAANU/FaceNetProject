@@ -1,0 +1,5 @@
+./aligned_img/rahul/aug_0_8942.png
+./aligned_img/rahul/aug_0_643.png
+./aligned_img/rahul/aug_0_5143.png
+./aligned_img/rahul/aug_0_9066.png
+./aligned_img/rahul/aug_0_3184.png

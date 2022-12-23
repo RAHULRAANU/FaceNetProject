@@ -1,0 +1,5 @@
+./aligned_img/rahul/aug_0_9664.png 24 11 165 172
+./aligned_img/rahul/aug_0_1982.png 48 0 205 202
+./aligned_img/rahul/aug_0_3123.png 49 -6 220 220
+./aligned_img/rahul/aug_0_8942.png
+./aligned_img/rahul/aug_0_6768.png 21 7 186 200
